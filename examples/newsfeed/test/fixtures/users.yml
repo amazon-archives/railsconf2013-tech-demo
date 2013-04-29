@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  id: 1
+  username: lsegal
+
+two:
+  id: 2
+  username: other_user
+
+three:
+  id: 3
+  username: foo
