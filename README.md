@@ -30,8 +30,6 @@ class Api::Post
     integer :post_id, as: :id
     string :username, as: [:user, :username]
     string :body
-    list(:tags) { tag }
-    integer :repost_count, as: [:posts, :count]
     timestamp :created_at
   end
 
