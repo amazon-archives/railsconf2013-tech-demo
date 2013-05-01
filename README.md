@@ -13,6 +13,12 @@ calls. With Rails integration, this is automatic, namely, parameters in
 automatically serialized from your API model to JSON or XML. You can also hook
 this up to a Sinatra app with a little amount of work.
 
+# Installing
+
+```sh
+gem install seahorse
+```
+
 # Usage
 
 Using Seahorse in a Rails app is pretty easy!
