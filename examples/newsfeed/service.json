@@ -86,8 +86,7 @@
           "username":{
             "type":"string",
             "required":true,
-            "location":"uri",
-            "documentation":""
+            "location":"uri"
           },
           "repost_username":{
             "type":"string",

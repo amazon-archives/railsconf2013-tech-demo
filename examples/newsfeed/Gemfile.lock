@@ -1,7 +1,7 @@
 PATH
   remote: ../../
   specs:
-    seahorse (0.0.1)
+    seahorse (0.1.0)
       activesupport
       oj
 
