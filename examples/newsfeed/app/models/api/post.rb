@@ -51,7 +51,7 @@ class Api::Post
   end
 
   operation :repost do
-     url '/:username/posts/:post_id/repost/:repost_username'
+    url '/:username/posts/:post_id/repost/:repost_username'
     verb :post
 
     input do
