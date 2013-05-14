@@ -1,5 +1,6 @@
 require 'active_support/core_ext/hash/indifferent_access'
 require 'active_support/concern'
+require 'active_support/inflector'
 
 require 'seahorse/api_translator/operation'
 require 'seahorse/api_translator/shape'
